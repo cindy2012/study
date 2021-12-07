@@ -1,0 +1,16 @@
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod.csproj.AssemblyReference.cache
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\MainWindow.g.cs
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\App.g.cs
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod_MarkupCompile.cache
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod_MarkupCompile.lref
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod.exe
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod.pdb
+D:\study\CSharpExercise\BindingToMethod\bin\Debug\BindingToMethod.exe.config
+D:\study\CSharpExercise\BindingToMethod\bin\Debug\BindingToMethod.exe
+D:\study\CSharpExercise\BindingToMethod\bin\Debug\BindingToMethod.pdb
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\MainWindow.baml
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod.g.resources
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod.Properties.Resources.resources
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod.csproj.GenerateResource.cache
+D:\study\CSharpExercise\BindingToMethod\obj\Debug\BindingToMethod.csproj.CoreCompileInputs.cache

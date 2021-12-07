@@ -1,0 +1,16 @@
+D:\study\CSharpExercise\Subject\bin\Debug\net5.0\Subject.exe
+D:\study\CSharpExercise\Subject\bin\Debug\net5.0\Subject.deps.json
+D:\study\CSharpExercise\Subject\bin\Debug\net5.0\Subject.runtimeconfig.json
+D:\study\CSharpExercise\Subject\bin\Debug\net5.0\Subject.runtimeconfig.dev.json
+D:\study\CSharpExercise\Subject\bin\Debug\net5.0\Subject.dll
+D:\study\CSharpExercise\Subject\bin\Debug\net5.0\ref\Subject.dll
+D:\study\CSharpExercise\Subject\bin\Debug\net5.0\Subject.pdb
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\Subject.csproj.AssemblyReference.cache
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\Subject.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\Subject.AssemblyInfoInputs.cache
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\Subject.AssemblyInfo.cs
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\Subject.csproj.CoreCompileInputs.cache
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\Subject.dll
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\ref\Subject.dll
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\Subject.pdb
+D:\study\CSharpExercise\Subject\obj\Debug\net5.0\Subject.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\study\CSharpExercise\Algorithms\bin\Debug\net5.0\Algorithms.exe
+D:\study\CSharpExercise\Algorithms\bin\Debug\net5.0\Algorithms.deps.json
+D:\study\CSharpExercise\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.json
+D:\study\CSharpExercise\Algorithms\bin\Debug\net5.0\Algorithms.runtimeconfig.dev.json
+D:\study\CSharpExercise\Algorithms\bin\Debug\net5.0\Algorithms.dll
+D:\study\CSharpExercise\Algorithms\bin\Debug\net5.0\ref\Algorithms.dll
+D:\study\CSharpExercise\Algorithms\bin\Debug\net5.0\Algorithms.pdb
+D:\study\CSharpExercise\Algorithms\obj\Debug\net5.0\Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\CSharpExercise\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfoInputs.cache
+D:\study\CSharpExercise\Algorithms\obj\Debug\net5.0\Algorithms.AssemblyInfo.cs
+D:\study\CSharpExercise\Algorithms\obj\Debug\net5.0\Algorithms.csproj.CoreCompileInputs.cache
+D:\study\CSharpExercise\Algorithms\obj\Debug\net5.0\Algorithms.dll
+D:\study\CSharpExercise\Algorithms\obj\Debug\net5.0\ref\Algorithms.dll
+D:\study\CSharpExercise\Algorithms\obj\Debug\net5.0\Algorithms.pdb
+D:\study\CSharpExercise\Algorithms\obj\Debug\net5.0\Algorithms.genruntimeconfig.cache

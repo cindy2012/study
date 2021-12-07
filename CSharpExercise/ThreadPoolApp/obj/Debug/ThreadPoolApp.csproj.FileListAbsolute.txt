@@ -1,0 +1,7 @@
+D:\study\CSharpExercise\ThreadPoolApp\bin\Debug\ThreadPoolApp.exe.config
+D:\study\CSharpExercise\ThreadPoolApp\bin\Debug\ThreadPoolApp.exe
+D:\study\CSharpExercise\ThreadPoolApp\bin\Debug\ThreadPoolApp.pdb
+D:\study\CSharpExercise\ThreadPoolApp\obj\Debug\ThreadPoolApp.csproj.AssemblyReference.cache
+D:\study\CSharpExercise\ThreadPoolApp\obj\Debug\ThreadPoolApp.csproj.CoreCompileInputs.cache
+D:\study\CSharpExercise\ThreadPoolApp\obj\Debug\ThreadPoolApp.exe
+D:\study\CSharpExercise\ThreadPoolApp\obj\Debug\ThreadPoolApp.pdb

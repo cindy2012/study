@@ -1,0 +1,4 @@
+C:\Users\xiaoluo\source\repos\CSharpExercise\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\xiaoluo\source\repos\CSharpExercise\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\study\CSharpExercise\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.AssemblyReference.cache
+D:\study\CSharpExercise\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache

@@ -1,0 +1,16 @@
+D:\study\CSharpExercise\ConsoleApp3\bin\Debug\net5.0\Decrator.exe
+D:\study\CSharpExercise\ConsoleApp3\bin\Debug\net5.0\Decrator.deps.json
+D:\study\CSharpExercise\ConsoleApp3\bin\Debug\net5.0\Decrator.runtimeconfig.json
+D:\study\CSharpExercise\ConsoleApp3\bin\Debug\net5.0\Decrator.runtimeconfig.dev.json
+D:\study\CSharpExercise\ConsoleApp3\bin\Debug\net5.0\Decrator.dll
+D:\study\CSharpExercise\ConsoleApp3\bin\Debug\net5.0\ref\Decrator.dll
+D:\study\CSharpExercise\ConsoleApp3\bin\Debug\net5.0\Decrator.pdb
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\Decrator.csproj.AssemblyReference.cache
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\Decrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\Decrator.AssemblyInfoInputs.cache
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\Decrator.AssemblyInfo.cs
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\Decrator.csproj.CoreCompileInputs.cache
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\Decrator.dll
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\ref\Decrator.dll
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\Decrator.pdb
+D:\study\CSharpExercise\ConsoleApp3\obj\Debug\net5.0\Decrator.genruntimeconfig.cache

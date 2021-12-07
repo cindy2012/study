@@ -1,0 +1,7 @@
+D:\study\CSharpExercise\MutexTest\bin\Debug\MutexTest.exe.config
+D:\study\CSharpExercise\MutexTest\bin\Debug\MutexTest.exe
+D:\study\CSharpExercise\MutexTest\bin\Debug\MutexTest.pdb
+D:\study\CSharpExercise\MutexTest\obj\Debug\MutexTest.csproj.CoreCompileInputs.cache
+D:\study\CSharpExercise\MutexTest\obj\Debug\MutexTest.exe
+D:\study\CSharpExercise\MutexTest\obj\Debug\MutexTest.pdb
+D:\study\CSharpExercise\MutexTest\obj\Debug\MutexTest.csproj.AssemblyReference.cache

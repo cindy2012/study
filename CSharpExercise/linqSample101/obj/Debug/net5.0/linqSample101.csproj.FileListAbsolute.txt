@@ -1,0 +1,16 @@
+D:\study\CSharpExercise\linqSample101\bin\Debug\net5.0\linqSample101.exe
+D:\study\CSharpExercise\linqSample101\bin\Debug\net5.0\linqSample101.deps.json
+D:\study\CSharpExercise\linqSample101\bin\Debug\net5.0\linqSample101.runtimeconfig.json
+D:\study\CSharpExercise\linqSample101\bin\Debug\net5.0\linqSample101.runtimeconfig.dev.json
+D:\study\CSharpExercise\linqSample101\bin\Debug\net5.0\linqSample101.dll
+D:\study\CSharpExercise\linqSample101\bin\Debug\net5.0\ref\linqSample101.dll
+D:\study\CSharpExercise\linqSample101\bin\Debug\net5.0\linqSample101.pdb
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\linqSample101.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\linqSample101.AssemblyInfoInputs.cache
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\linqSample101.AssemblyInfo.cs
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\linqSample101.csproj.CoreCompileInputs.cache
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\linqSample101.dll
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\ref\linqSample101.dll
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\linqSample101.pdb
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\linqSample101.genruntimeconfig.cache
+D:\study\CSharpExercise\linqSample101\obj\Debug\net5.0\linqSample101.csproj.AssemblyReference.cache
