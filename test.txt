@@ -1,7 +1,4 @@
 eserrr
 add and merger git branch
-<<<<<<< HEAD
-111111111111111111111111222222222222
-=======
 Creating a new branch is quick AND simple feature1
->>>>>>> feature1
+23444444444444444
